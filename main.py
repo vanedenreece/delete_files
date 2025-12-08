@@ -94,7 +94,7 @@ def check_and_delete(folder):
 if __name__ == "__main__":
     
     # call function
-    print(f"\nYour root folder is: {folder}\n\n...running script\n\n")
+    print(f"\n Your root folder is: {folder}\n\n...running script\n\n")
 
     result = check_and_delete(folder)
 
